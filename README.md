@@ -3,8 +3,6 @@
 ## This is a Mern Stack webstite with React JS & Node JS
 
 
-
-
 ## Table of Contents
 1. [Home]
 2. [Products]
@@ -31,7 +29,7 @@
 ***
 A little intro about the installation. 
 ```
-$ git clone https://github.com/Raghad-Emad/Cha-Chat-App-with-React-JS.git
+$ git clone https://github.com/Raghad-Emad/Full-e-commerce-online-shopping.git
 $ cd ../path/to/the/file ===> (api - client - admin)
 $ npm install
 $ npm start
